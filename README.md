@@ -6,9 +6,17 @@ This repo contains elf (i386 to i686 and sparc) and riscv tools used to make own
 
 <hr>
 
+### Dependencies
+
+This script only works on debian based distros
+
+- gcc 
+- g++
+- go or gnu go
+
 ### Run the script
 
-#### i386 to i686 elf tools
+#### i386 to i686 elf tools and everything apart from riscv
 
 To run the script you can do
 
