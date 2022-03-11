@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# i686-elf-tools.sh
-# v1.3.1
-
 # Define Global Variables
 
 BINUTILS_VERSION=2.28
