@@ -65,7 +65,6 @@ I made this for osdev.org making kernels and hope that this will make it easier 
 
 - [ ] Make an install script for binaries
 - [ ] Make binaries for more versions of the gcc and binutils (1 extra version before feb 8)
-- [ ] make one for sparc elf (before feb 8)
 - [ ] docker file
 
 if anyone can help please do make an pr
